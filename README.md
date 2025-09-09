@@ -5,11 +5,6 @@ This project was developed to practice clean code structure, modular JavaScript,
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Click here to view the website]()
-
----
-
 ## ✨ Features
 - ➕ Add new tasks with ease  
 - ✅ Mark tasks as **completed / uncompleted**  
